@@ -1,0 +1,1 @@
+(self.webpackChunkrainbowkit_example=self.webpackChunkrainbowkit_example||[]).push([[563],{6563:function(){}}]);
